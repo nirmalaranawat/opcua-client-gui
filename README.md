@@ -28,7 +28,7 @@ What works:
 TODO (listed after priority):
 
 * detect lost connection and automatically reconnect 
-* gui for loging with certificate or user/password (can currently be done by writting them in uri)
+* gui for loging with certificate or user/password (can currently be done by writting them in uri e.g. opc.tcp://user:passwd@x.x.x.x:4840)
 * Maybe read history
 * Something else?
 
